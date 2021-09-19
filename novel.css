@@ -1,0 +1,65 @@
+
+	
+		
+		body {
+			background-color: #F2F2F2;
+			color: black;
+		}
+		
+		.top {
+			background-color: #8A3800;
+			position:absolute;
+			left:0px; right:0px; top:0px;
+			height: 100px;
+		}
+		.left {
+			background-color: #8A3800;
+			position:fixed;
+			left:0; top:0px; bottom: 0;
+			width: 280px;
+			overflow-y: scroll;
+		}
+		
+		
+		button {
+			background-color:black;
+			color: white;
+			border: black;
+			font-size: 20px;
+		}
+		
+		a{
+		color: black;
+		font-size: 20px;
+		}
+		
+			
+		a:link{
+			color: black;
+			text-decoration: none;}
+		
+		a:hover{
+			
+			color: silver;
+			text-decoration: underline;
+		}
+		
+		
+		p {
+			color: black;
+			
+		}
+		
+		h1 {
+			color: silver;
+		}
+		
+		.about {
+			color: black;
+		}
+		
+		.writers {
+			padding-top: 150px;
+		}
+		
+		
